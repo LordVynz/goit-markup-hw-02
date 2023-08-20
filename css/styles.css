@@ -2,6 +2,9 @@
   text-decoration: none;
   list-style: none;
 }
+.link{
+  list-style: none;
+}
 .hero,.footer,title{
   background-color: #2E2F42;
   font-family: Roboto, sans-serif;
