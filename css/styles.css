@@ -1,6 +1,6 @@
 .main-link{
   text-decoration: none;
-  display: inline;
+  list-style: none;
 }
 .hero,.footer,title{
   background-color: #2E2F42;
@@ -73,9 +73,6 @@
 
 .features{
   display: inline;
-}
-.description{
-  white-space: pre-wrap;
 }
 .item-selects1{
 color: white;
